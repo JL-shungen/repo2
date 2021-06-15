@@ -8,5 +8,6 @@ package package1;
 public class testMain {
     public static void main(String[] args) {
         System.out.println("我的名字叫王顺根!");
+        System.out.println("第一次更新!");
     }
 }
